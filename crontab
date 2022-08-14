@@ -1,2 +1,2 @@
-#Run every hour
-0 * * * * sudo bash ~/PUPgetBackend.sh
+#Run every 24 hours
+0 0 * * * sudo bash ~/PUPgetBackend.sh
