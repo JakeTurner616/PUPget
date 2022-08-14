@@ -9,7 +9,7 @@ PUPget.sh is a very simple bash script to download the absolute latest update so
 
 # Why: 
 
-I wanted to run a mirror of emuluation files including BIOS and ROM files for the PS3 without having to manually update the UPDATE.PUP files when they get out of date. This script allows me to automate their download to my file backend as to host an up to date mirror with a set frequency to pull and push an update. This could be usefull to anyone else wanting to download UPDATE.PUP files on the command line.
+I wanted to run a mirror of emuluation files including BIOS and ROM files for the PS3 without having to manually update the UPDATE.PUP files when they get out of date. This script allows me to automate their download to my file backend as to host an up to date mirror with a set frequency to pull and push an update. This could be useful to anyone else wanting to download UPDATE.PUP files on the command line.
 
 ------------
 
