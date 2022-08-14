@@ -1,2 +1,2 @@
 #Run every hour
-0 * * * * sudo bash ~/PUPget.sh
+0 * * * * sudo bash ~/PUPgetBackend.sh
